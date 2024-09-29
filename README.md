@@ -1,0 +1,2 @@
+# Assignment 6 - C Programming
+This project contains all the tasks in linkedlist assginment in C programming course in Standard Embedded Diploma by Eng. Mohamed Tarek. The tasks are 5 and each task has its own function and description. The tasks are about linked list different operations
